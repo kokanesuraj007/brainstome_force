@@ -1,0 +1,15 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.USER_REGISTER = exports.USER_LOGIN_FAILURE = exports.USER_LOGIN_SUCCESS = exports.USER_LOGIN_REQUEST = void 0;
+var USER_LOGIN_REQUEST = "USER_LOGIN_REQUEST";
+exports.USER_LOGIN_REQUEST = USER_LOGIN_REQUEST;
+var USER_LOGIN_SUCCESS = "USER_LOGIN_SUCCESS";
+exports.USER_LOGIN_SUCCESS = USER_LOGIN_SUCCESS;
+var USER_LOGIN_FAILURE = "USER_LOGIN_FAILURE";
+exports.USER_LOGIN_FAILURE = USER_LOGIN_FAILURE;
+var USER_REGISTER = "USER_REGISTER";
+exports.USER_REGISTER = USER_REGISTER;
+//# sourceMappingURL=action.type.dev.js.map
